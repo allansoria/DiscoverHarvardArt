@@ -55,6 +55,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+The challenging part facing building the app was learning the API and knowing what actions were possible. The other challenge was designing giving the right results and features. 
+
 ## License
 
     Copyright 2026 Allan Soria
